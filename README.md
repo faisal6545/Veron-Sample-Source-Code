@@ -4,7 +4,9 @@ Sample Source Code of [Veron Software](http://faisal65.yolasite.com/project.php)
 
 # Requirements
 
-Before run this project, make sure that [FFmpeg](http://ffmpeg.zeranoe.com/builds/) and [Mplayer](http://mplayerwin.sourceforge.net/downloads.html) files are in the main application's start path.
+* Before run this project, make sure that [FFmpeg](http://ffmpeg.zeranoe.com/builds/) and [Mplayer](http://mplayerwin.sourceforge.net/downloads.html) files are in the main application's start path.
+
+* Visual Studio 2012 or later
 
 # License
 
