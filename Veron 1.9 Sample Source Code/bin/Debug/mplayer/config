@@ -1,0 +1,5 @@
+# cache setting
+cache=1024
+vf-add=hue=0,eq=0:0
+vf-add=screenshot
+vf-add=scale
