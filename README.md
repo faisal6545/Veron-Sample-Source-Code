@@ -17,8 +17,8 @@ See the [GNU General Public License for more details](http://www.gnu.org/license
 
 # Third party intellectual property rights
 
-* [ImageMagick](http://www.imagemagick.org/script/license.php)
+* [AFroge](http://www.aforgenet.com/framework/license.html)
 
 * [ICsharp](http://www.icsharpcode.net/OpenSource/SD/Default.aspx)
 
-* [AFroge](http://www.aforgenet.com/framework/license.html)
+* [ImageMagick](http://www.imagemagick.org/script/license.php)
