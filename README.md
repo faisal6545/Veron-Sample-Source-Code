@@ -14,3 +14,11 @@ Copyright (C) S.M.A.Faisal
 
 This program is free. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 See the [GNU General Public License for more details](http://www.gnu.org/licenses/gpl-3.0.en.html).
+
+# Third party intellectual property rights
+
+* [ImageMagick](http://www.imagemagick.org/script/license.php)
+
+* [ICsharp](http://www.icsharpcode.net/OpenSource/SD/Default.aspx)
+
+* [AFroge](http://www.aforgenet.com/framework/license.html)
