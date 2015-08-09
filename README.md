@@ -12,8 +12,7 @@ Sample Source Code of [Veron Software](http://faisal65.yolasite.com/project.php)
 
 Copyright (C) S.M.A.Faisal
 
-This program is free. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-See the [GNU General Public License for more details](http://www.gnu.org/licenses/gpl-3.0.en.html).
+This program is free. You can redistribute it and/or modify it.
 
 # Third party intellectual property rights
 
